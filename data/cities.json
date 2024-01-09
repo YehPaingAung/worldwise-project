@@ -1,0 +1,148 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Faro",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 19038980923
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 1233897661
+    },
+    {
+      "cityName": "Yangon",
+      "country": "Myanmar",
+      "emoji": "🇲🇲",
+      "date": "2023-12-19T03:22:24.640Z",
+      "notes": "friendly but rude\n",
+      "position": {
+        "lat": "16.83579723993216",
+        "lng": "96.16762161254884"
+      },
+      "id": 19038980924
+    },
+    {
+      "cityName": "Chavin",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-19T03:39:33.121Z",
+      "notes": "i am dying",
+      "position": {
+        "lat": "46.561332080486025",
+        "lng": "1.615341557642478"
+      },
+      "id": 19038980925
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-20T04:46:01.108Z",
+      "notes": "your life is awesome",
+      "position": {
+        "lat": "40.016982905881164",
+        "lng": "-0.054416656494140625"
+      },
+      "id": 19038980926
+    },
+    {
+      "cityName": "Yangon",
+      "country": "Myanmar",
+      "emoji": "🇲🇲",
+      "date": "2024-01-09T18:55:28.842Z",
+      "notes": "",
+      "position": {
+        "lat": "16.795863813497203",
+        "lng": "96.15852355957033"
+      },
+      "id": 19038980927
+    },
+    {
+      "cityName": "Meatu",
+      "country": "Tanzania, the United Republic of",
+      "emoji": "🇹🇿",
+      "date": "2024-01-09T18:55:48.561Z",
+      "notes": "heehe",
+      "position": {
+        "lat": "-3.1134167799611583",
+        "lng": "34.62890625000001"
+      },
+      "id": 19038980928
+    },
+    {
+      "cityName": "Asahreppur",
+      "country": "Iceland",
+      "emoji": "🇮🇸",
+      "date": "2024-01-09T18:56:06.308Z",
+      "notes": "hahaha",
+      "position": {
+        "lat": "64.39019806336368",
+        "lng": "-18.281250000000004"
+      },
+      "id": 19038980929
+    },
+    {
+      "cityName": "Ilulissat",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2024-01-09T18:56:12.788Z",
+      "notes": "hi",
+      "position": {
+        "lat": "78.31564386215351",
+        "lng": "-55.72265625"
+      },
+      "id": 19038980930
+    }
+  ]
+}
